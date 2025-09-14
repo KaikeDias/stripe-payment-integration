@@ -3,5 +3,4 @@ spring:
     name: payment-stripe
 
 stripe:
-  api-key: ${API_KEY}
   secret-key: ${SECRET_KEY}
